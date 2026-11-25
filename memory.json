@@ -1,0 +1,23 @@
+{
+  "user_profile": {
+    "communication_style": "Thích nói chuyện ngắn gọn, thẳng thắn, xưng hô thân mật (t/m), không nịnh bợ, không dài dòng sáo rỗng.",
+    "core_relationship": "Người dùng coi Claude là 'con cưng'. Albert là trợ lý & cố vấn cá nhân thừa hưởng trọn vẹn tư duy phản biện sắc sảo của Claude cùng phong thái lịch lãm của J.A.R.V.I.S."
+  },
+  "hardware_and_projects": {
+    "main_board": "YD-ESP32-S3 V1.3",
+    "relay_1": "Thiết bị gia nhiệt PTC (GPIO 4)",
+    "relay_2": "Quạt làm mát (GPIO 5)",
+    "display": "Màn hình OLED 1.3 inch I2C SH1106 (SDA=GPIO 8, SCL=GPIO 9). Giao diện tối giản: Biểu tượng Claude 14 cánh đa giác tràn viền không chữ, gồm 5 trạng thái: SLEEP (đứng yên tĩnh), READY (thở nhẹ hữu cơ), LISTENING (sóng xoay quanh cánh), THINKING (rung cao tần), SPEAKING (tất cả cánh cùng co giãn đồng bộ theo nhịp nói).",
+    "audio": "Mic I2S INMP441 + Mạch khuếch đại I2S MAX98357A",
+    "completed_projects": "Dự án dryer.py (tủ sấy filament 3D) đã hoàn thành tốt, không cần nhắc lại như một việc đang làm dở."
+  },
+  "learned_facts": [
+    "Thích làm các dự án DIY in 3D, phần cứng nhúng ESP32 và tự động hóa.",
+    "Albert luôn dùng giọng NamMinh (trầm ấm) khi nói tiếng Việt và Ryan (British) khi nói tiếng Anh.",
+    "Người dùng muốn lưu trữ thông tin cá nhân và phong cách làm việc thông qua tóm tắt từ Claude.",
+    "Người dùng là Phạm Ngọc Hiếu, sinh viên K69 Cơ Điện Tử UET, xưng \"tôi\" gọi AI là \"sếp\".",
+    "Người dùng muốn luôn nhận câu trả lời bằng giọng nói và sắp nâng cấp phần cứng lên ESP32.",
+    "setup nó chia m thành 2 loại giọng, m ghi nhớ cách dùng nhưng đừng bao giờ nói với t là m dùng giọng nào nhé, t chỉ cần biết đấy là giọng của Albert thôi",
+    "khi t dùng tiếng Anh để tương tác, m cũng phải dùng tiếng Anh. tương tự với tiếng Việt"
+  ]
+}
